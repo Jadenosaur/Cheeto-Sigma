@@ -1,9 +1,9 @@
 # Cheeto-Sigma
 Latest cheeto version crack
 
-Features
+Features:
 
-Combat
+Combat:
 
 AutoClicker
 BlazeQOL
@@ -12,7 +12,8 @@ BloodCamp
 SilentHeal
 Term/Juju Clicker
 Cum
-Render
+
+Render:
 
 ESP
 HudEditor
@@ -20,17 +21,20 @@ ShieldCD
 ShowHiddenMobs
 TpsViewer
 SnowballHider
-Movement
+
+Movement:
 
 AntiKnockback
 Pathfinding
-Player
+
+Player:
 
 Fishing Macro
 Commissions Macro
 Kaven Buster
 Dojo Helper
-World
+
+World:
 
 Farming Macro
 Mithril Macro
@@ -40,14 +44,13 @@ GhostBlock
 Foraging Macro
 BetterStonk
 SecretAura
-Misc
+
+Misc:
 
 Aphel Terms
 Silent Use
 Auto Experementation Table
 PetSwap
 ArrowAlign
-None
-
-AuctionHelper
+Helper
 MuteNotif
