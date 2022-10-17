@@ -5,52 +5,52 @@ Features:
 
 Combat:
 
-AutoClicker
-BlazeQOL
-SlayerAimBot
-BloodCamp
-SilentHeal
-Term/Juju Clicker
+AutoClicker,
+BlazeQOL,
+SlayerAimBot,
+BloodCamp,
+SilentHeal,
+Term/Juju Clicker,
 Cum
 
 Render:
 
-ESP
-HudEditor
-ShieldCD
-ShowHiddenMobs
-TpsViewer
+ESP,
+HudEditor,
+ShieldCD,
+ShowHiddenMobs,
+TpsViewer,
 SnowballHider
 
 Movement:
 
-AntiKnockback
+AntiKnockback,
 Pathfinding
 
 Player:
 
-Fishing Macro
-Commissions Macro
-Kaven Buster
+Fishing Macro,
+Commissions Macro,
+Kaven Buster,
 Dojo Helper
 
 World:
 
-Farming Macro
-Mithril Macro
-F7 Aura
-FairySoulAura
-GhostBlock
-Foraging Macro
-BetterStonk
+Farming Macro,
+Mithril Macro,
+F7 Aura,
+FairySoulAura,
+GhostBlock,
+Foraging Macro,
+BetterStonk,
 SecretAura
 
 Misc:
 
-Aphel Terms
-Silent Use
-Auto Experementation Table
-PetSwap
-ArrowAlign
-Helper
+Aphel Terms,
+Silent Use,
+Auto Experementation Table,
+PetSwap,
+ArrowAlign,
+Helper,
 MuteNotif
